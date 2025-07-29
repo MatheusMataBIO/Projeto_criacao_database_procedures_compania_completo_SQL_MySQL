@@ -34,16 +34,11 @@ As tabelas modelam o ambiente de uma empresa realista com funcionários, departa
 - `works_on` – associação de funcionários a projetos  
 - `dependent` – dependentes dos funcionários
 
-![Modelo Relacional](https://raw.githubusercontent.com/MatheusMataBIO/Projeto_criacao_database_procedures_compania_completo_SQL_MySQL/main/assets/er-company.png)
-
----
-
 ## 🧠 Consultas Baseadas em Perguntas Reais
 
 - ✅ **Qual o departamento com maior número de funcionários?**
 - ✅ **Quais são os departamentos presentes por cidade?**
 - ✅ **Quais funcionários trabalham em quais departamentos?**
--
 
 ## Tecnologias Utilizadas
 
