@@ -1,6 +1,6 @@
 # 🏢 Projeto criação de database e procedures de uma compania
 
-![MySQL Banner](https://raw.githubusercontent.com/MatheusMataBIO/Projeto_criacao_database_procedures_compania_completo_SQL_MySQL/main/assets/sql-header.png)
+![Diagrama do banco de dados](img/banco%20de%20dados%20img.png)
 
 Este projeto simula a modelagem e análise de dados de uma empresa utilizando **MySQL**, com foco em **otimização de consultas** via **índices bem planejados** e **procedures reutilizáveis**. Ele cobre desde a criação das tabelas até a análise de dados com SQL avançado.
 
