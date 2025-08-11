@@ -1,4 +1,4 @@
-# 🏢 Projeto criação de database e procedures de uma companhia
+# 🏢 Projeto criação de database, procedures, views, permissões e triggers de uma companhia
 
 ![Diagrama do banco de dados](img/banco%20de%20dados%20img.png)
 
