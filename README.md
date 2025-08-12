@@ -23,8 +23,8 @@ Projeto_criacao_database_procedures_compania_completo_SQL_MySQL/
 ├── Script criação das tabelas.sql  
 ├── Script inserção de dados.sql  
 ├── Script análise de dados e criação de procedures.sql  
-├── Views e permissões 
-├── Criação de triggers
+├── Views e permissões.sql 
+├── Criação de triggers.sql
 
 ## 🧱 Estrutura do Banco de Dados
 
