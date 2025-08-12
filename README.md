@@ -1,6 +1,6 @@
-# 🏢 Projeto criação de database, procedures, views, permissões e triggers de uma companhia
+# 🏢 Projeto criação de database e procedures de uma compania
 
-![Diagrama do banco de dados](img/banco%20de%20dados%20img.png)
+![MySQL Banner](https://raw.githubusercontent.com/MatheusMataBIO/Projeto_criacao_database_procedures_compania_completo_SQL_MySQL/main/assets/sql-header.png)
 
 Este projeto simula a modelagem e análise de dados de uma empresa utilizando **MySQL**, com foco em **otimização de consultas** via **índices bem planejados** e **procedures reutilizáveis**. Ele cobre desde a criação das tabelas até a análise de dados com SQL avançado.
 
@@ -34,11 +34,16 @@ As tabelas modelam o ambiente de uma empresa realista com funcionários, departa
 - `works_on` – associação de funcionários a projetos  
 - `dependent` – dependentes dos funcionários
 
+![Modelo Relacional](https://raw.githubusercontent.com/MatheusMataBIO/Projeto_criacao_database_procedures_compania_completo_SQL_MySQL/main/assets/er-company.png)
+
+---
+
 ## 🧠 Consultas Baseadas em Perguntas Reais
 
 - ✅ **Qual o departamento com maior número de funcionários?**
 - ✅ **Quais são os departamentos presentes por cidade?**
 - ✅ **Quais funcionários trabalham em quais departamentos?**
+-
 
 ## Tecnologias Utilizadas
 
